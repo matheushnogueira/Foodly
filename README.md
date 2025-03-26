@@ -10,7 +10,6 @@ Com uma interface dinâmica e otimizada para dispositivos móveis, **Foodly** me
 
 - **React.js** – Para a construção da interface interativa  
 - **Tailwind CSS** – Para estilização rápida e responsiva  
-- **React Router** – Para navegação entre páginas  
 
 ---
 
