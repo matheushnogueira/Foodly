@@ -18,7 +18,7 @@ Com uma interface dinâmica e otimizada para dispositivos móveis, **Foodly** me
 
 1. **Clone o repositório:**  
    ```sh
-   git clone https://github.com/seu-usuario/foodly.git
+   git clone git@github.com:matheushnogueira/Foodly.git
    
 2. **Acesse a pasta do projeto:**  
    ```sh
@@ -32,9 +32,7 @@ Com uma interface dinâmica e otimizada para dispositivos móveis, **Foodly** me
    
 4. **Inicie o servidor de desenvolvimento:**  
    ```sh
-   npm run dev
-   # ou
-   yarn dev
+   npm start
 
 5. **Acesse no navegador:**
    
